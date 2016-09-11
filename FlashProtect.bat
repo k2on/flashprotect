@@ -15,7 +15,7 @@ echo    /                         / /  /     /\____/    / /  /    / /  /   / /  
 echo   /_________________________/ /  /_____/ /   /____/ /  /    / /  /___/ /    /_____/ /   /_____/ /  /_________________/ /   /_____/ /   /_____/ /  /____________________/ /
 echo   \_________________________\/   \_____\/    \____\/   \____\/   \___\/     \_____\/    \_____\/   \_________________\/    \_____\/    \_____\/   \____________________\/
 echo.
-echo                 The content on the flashdrive is only for Max Koon and people with permistion from him to view or use it.
+echo                 The content on the flashdrive is only for [Your Name] and people with permistion from him/her to view or use it.
 echo                                       The following will be loged and sent to him if there is a problem.
 echo.
 echo.
