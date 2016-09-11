@@ -1,4 +1,5 @@
 @echo off
+::If this dosent work read readme.md
 title Warning
 color 0f
 mode con lines=30 cols=180
